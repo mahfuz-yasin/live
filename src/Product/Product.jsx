@@ -7,7 +7,6 @@ function Product({product}) {
     <div>
         <p>{id}</p>
         <h2>price : {price}</h2>
-        <p>Description : {description}</p>
     </div>
   )
 }
