@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "product": "Widget A",
+      "price": 19.99,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut aliquam purus sit amet lacinia tempus."
+    },
+    {
+      "id": 2,
+      "product": "Gizmo X",
+      "price": 29.99,
+      "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+    },
+    {
+      "id": 3,
+      "product": "Thingamajig B",
+      "price": 14.99,
+      "description": "Integer commodo velit at elit lacinia, quis aliquet est condimentum. Proin a orci nec justo ullamcorper laoreet."
+    },
+    {
+      "id": 4,
+      "product": "Doodad Y",
+      "price": 39.99,
+      "description": "Fusce eget justo id nunc tempus consequat. Suspendisse potenti. In varius leo vitae purus feugiat, vitae efficitur justo vestibulum."
+    },
+    {
+      "id": 5,
+      "product": "Whatchamacallit Z",
+      "price": 24.99,
+      "description": "Curabitur in nisi sit amet arcu consequat condimentum. Sed pharetra purus eu diam ultricies varius."
+    },
+    {
+      "id": 6,
+      "product": "Doohickey C",
+      "price": 34.99,
+      "description": "Sed a mauris id est tincidunt vehicula. Nulla facilisi. Mauris blandit tellus vitae lectus ultrices, a malesuada mi dignissim."
+    },
+    {
+      "id": 7,
+      "product": "Thingummy D",
+      "price": 21.99,
+      "description": "Vivamus sed tortor sit amet lacus varius vulputate. Phasellus nec mauris vitae velit interdum cursus."
+    },
+    {
+      "id": 8,
+      "product": "Contraption E",
+      "price": 49.99,
+      "description": "Duis efficitur, dui nec rhoncus placerat, velit augue vehicula risus, nec euismod felis ante vel mauris."
+    },
+    {
+      "id": 9,
+      "product": "Gadget F",
+      "price": 59.99,
+      "description": "Nam non neque sed libero euismod feugiat nec eget justo. Nam bibendum, justo id aliquet volutpat, sem ex lobortis nulla, et laoreet odio mauris quis risus."
+    },
+    {
+      "id": 10,
+      "product": "Thingamajigger G",
+      "price": 44.99,
+      "description": "Quisque eget metus vitae lacus convallis consectetur. Nam id scelerisque libero, vitae dictum enim. Nulla facilisi."
+    }
+  ]
+  
